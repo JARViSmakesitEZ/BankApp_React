@@ -6,7 +6,7 @@ function Navbar(props) {
     <nav>
       <Navtext text="Welcome to LIB ." />
       <div id="logo">
-        <img src="assets/logo.png" alt="bankLogo" />
+        <img src="assets/logo.PNG" alt="bankLogo" />
       </div>
     </nav>
   );
